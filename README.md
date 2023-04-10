@@ -1,6 +1,6 @@
 <h1 align="center">Ohaayoo,this is Toothsy</h1>
 <h3 align="center">golang adorer</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  align="right" height="270" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-40f4a53b243411e246d7af7e24160e51" alt="toothsy" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  align="right" height="250" width="350" src="./typing.gif" alt="toothsy" /></a>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=toothsy&&show_icons=true&theme=dracula&label=Profile%20views&color=0e75b6&style=flat" alt="toothsy" /> </p>
 
