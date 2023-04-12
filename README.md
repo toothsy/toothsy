@@ -22,6 +22,15 @@
 
 -    📫 How to reach me **>>>probably on linkedIn or twitter**
 
+# Latest Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+# Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/toothsy" target="blank">
