@@ -42,7 +42,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c-j-atharva" height="30" width="40" /></a>
 <a href="https://hashnode.com/@toothsy" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@toothsy" height="30" width="40" /></a>
-<a href="https://medium.com/@" target="blank">
+<a href="https://medium.com/@c.j.atharva" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/toothsy" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="toothsy" height="30" width="40" /></a>
