@@ -30,6 +30,16 @@
 # Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://toothsy.hashnode.dev//all-you-need-to-know-about-defer-closure-in-go-lang" title="All you need to know about defer & closure in Go-Lang"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680093229602/7456ee6f-9063-45af-9da8-15b07b206137.jpeg" alt="All you need to know about defer & closure in Go-Lang" width="250px" align="left" /></a>
+<a href="https://toothsy.hashnode.dev//all-you-need-to-know-about-defer-closure-in-go-lang" title="All you need to know about defer & closure in Go-Lang"><strong>All you need to know about defer & closure in Go-Lang</strong></a>
+<br/> Hello, fellow internet user, before we begin, this article assumes you have the following pre-requisites
+
+You know about functions in go
+
+have an understanding of the local and global scope
+
+Have your vsc setup for go-lang, because it’ll be a delight... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 <h2 align="left">Connect with me:</h2>
 <p align="left">
