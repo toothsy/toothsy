@@ -25,6 +25,7 @@
 # Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [All you need to know about defer &amp; closure in Go-Lang](https://toothsy.hashnode.dev/all-you-need-to-know-about-defer-closure-in-go-lang)
 <!-- BLOG-POST-LIST:END -->
 
 # Latest Blog Posts 👇
