@@ -1,6 +1,5 @@
 <h1 align="center">Ohaayoo,this is Toothsy</h1>
 <h3 align="center">golang adorer</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  align="right" height="250" width="350" src="./typing.gif" alt="toothsy" /></a>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=toothsy&&show_icons=true&theme=dracula&label=Profile%20views&color=0e75b6&style=flat" alt="toothsy" /> </p>
 
