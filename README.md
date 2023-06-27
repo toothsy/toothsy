@@ -1,7 +1,7 @@
 <h1 align="center">Ohaayoo,this is Toothsy</h1>
 <h3 align="center">golang adorer</h3>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=toothsy&&show_icons=true&theme=dracula&label=Profile%20views&color=0e75b6&style=flat" alt="toothsy" /> </p>
+<img src="https://komarev.com/ghpvc/?username=toothsy&&show_icons=true&theme=dracula&label=Profile%20views&color=0e75b6&style=flat" alt="toothsy" align="center" /> </p>
 
 <p  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img  src="https://github-profile-trophy.vercel.app/?username=toothsy&&show_icons=true&theme=dracula&row=2&column=3" alt="toothsy" /></a>
