@@ -13,13 +13,11 @@
 
 -    👷‍♂️ My contribtions include repositories,[poly](https://github.com/TimothyStiles/poly)
 
--    🔭 I’m currently working on **golang projects**
+-    📝 I write articles on [hashnode](https://toothsy.hashnode.dev)
 
--    📝 I regularly write articles on [hashnode](https://toothsy.hashnode.dev)
+-    💬 Ask me about **golang, MERN, SDLC, Automation, K8s, React**
 
--    💬 Ask me about **golang, MERN**
-
--    📫 How to reach me **>>>probably on linkedIn or twitter**
+-    📫 How to reach me **>>>probably BlueSky**
 
 # Latest Blogs
 
