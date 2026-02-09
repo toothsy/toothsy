@@ -92,12 +92,4 @@ Have your vsc setup for go-lang, because it’ll be a delight... </p> <br/> <br/
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=toothsy&show_icons=true&theme=dracula&locale=en" alt="toothsy" /></p>
-</br>
-</br>
-</br>
-</br>
-<p>&nbsp;
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=toothsy&show_icons=true&theme=dracula" alt="toothsy" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toothsy&theme=tokyonight&border_radius=8&short_numbers=true&mode=weekly&card_width=600&hide_current_streak=true" alt="GitHub Streak" /></a>
