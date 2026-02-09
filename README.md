@@ -7,7 +7,7 @@
 
 ## About Me
 
-Backend engineer with 3+ years building production systems in Go. Currently working at Optum, focused on authentication infrastructure, distributed caching, and Kubernetes deployments.
+Backend engineer with 4+ years building production systems in Go. Currently working at Gruve, focused on authentication infrastructure, distributed caching, and Kubernetes deployments.
 
 - 🔐 Built OAuth2/OIDC authentication flows with Dex, Redis-backed session management
 - ☁️ Deployed and maintained services on Kubernetes with Kong API Gateway
@@ -24,18 +24,25 @@ Backend engineer with 3+ years building production systems in Go. Currently work
 ## Experience
 
 **Backend Engineer** | Gruve
-*April 2024 - Present*
+*May 2025 - Present*
 - Designed distributed authentication and authorization system using Redis for cross-service communication
 - Built OAuth2/OIDC flows with Dex for multi-service authentication
 - Deployed demo applications on Kubernetes with Kong API Gateway
 
 **Fullstack Engineer** | Optum  
-*September 2022 - April 2024*
+*September 2022 - April 2025*
 
 - Maintained backend services handling thousands of monthly requests
 - Resolved critical production incidents including cache sync failures, authentication token propagation issues, and Excel file processing errors
 - Implemented monitoring and observability using Grafana
 - Debugged and fixed distributed cache synchronization issues causing valid token rejections.
+
+
+**Fullstack Engineer** | Intern  
+*January 2022 - August 2022*
+
+- Built an [ecommerece POC](https://github.com/toothsy/HyperMarket) end to end in C#,Blazor wasm.
+- built golang based CLI tools for automating mundane tasks for deployment.
 
 
 ## Featured Projects
